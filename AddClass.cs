@@ -1,9 +1,3 @@
-﻿/*
- * Group 4: Dago, Juliana, Miguel, Will, Brian
- * Assignment 11
- * Add Class
- */
-
 using System;
 using System.Collections;
 using System.Collections.Generic;
